@@ -1,0 +1,154 @@
+/*Styesheet for Craic Ops Gaming*/
+
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* This is the text on the thank you page*/
+
+#thankyoutxt {
+  background: white;
+  color: black;
+}
+/* styles for the navbar */
+.navbar {
+background: #585858;
+padding: 5px;
+}
+/* Logo image in the navbar */
+.logoimg {
+padding: 5px;
+}
+/*stlyes for Ian and I's photo's*/
+.founder-profiler {
+width:200px;
+height:200px;
+margin-top:15px;
+margin-bottom: 10px;
+}
+/* Footer styles */
+footer {
+background: #585858;
+color: #eee;
+font-size: 11px;
+padding: 20px;
+}
+ul.footerul {
+list-style: none;
+padding:0;
+}
+
+/* styles for the images 'top 5 anticipated games' */
+.media-object {
+height:300px;
+width:400px;
+padding: 20px;
+}
+
+/*anticipatedd games*/
+.media {
+background: #585858;
+color: #eee;
+border-radius: 10px;
+padding: 20px;
+}
+.text-center {
+background: #585858;
+color: #eee;
+border-radius: 10px;
+padding: 5px;
+}
+.review-picture1 {
+height: 200px;
+width: 360px;
+border-right: 1px, solid, #000;
+}
+.review-picture2 {
+height: 200px;
+width: 360px;
+}
+.review-picture3 {
+height: 200px;
+width: 360px;
+}
+/*This is the thin grey line seperating the different boxes on the site*/
+hr {
+border-top: 1px solid grey;
+}
+/* Here are the styles for the glyphicons */
+.glyphicon.glyphicon-chevron-right {
+color: black;
+}
+.glyphicon.glyphicon-chevron-left {
+color: black;
+}
+
+.glyphicon.glyphicon-heart {
+color: #ff0000;
+}
+/* Styles for the login box on the 'login' page*/
+#loginbox {
+background-color: #585858;
+width: 300px;
+height: 200px;
+margin-left: 385px;
+margin-top: 50px;
+margin:0 auto;
+}
+#username {
+margin-bottom: 5px;
+color: black;
+}
+#password {
+margin-bottom: 5px;
+color: black;
+}
+#login {
+color: black;
+}
+/* Styles for the form bos on the Contact page*/
+#contactbox {
+background-color: #585858;
+width: 500px;
+height: 670px;
+margin-left: 385px;
+margin-top: 50px;
+margin-bottom:50px;
+margin:0 auto;
+}
+
+#Sent {
+color: black;
+}
+#Firstname {
+color: black;
+}
+#Surname {
+color: black;
+}
+#email {
+color: black;
+}
+
+#phone {
+color: black;
+}
+#cemail {
+color: black;
+}
+#cphone {
+color: black;
+}
+#comments {
+color: black;
+}
+
