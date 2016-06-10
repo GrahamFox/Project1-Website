@@ -10,6 +10,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-image: url(images/greenbackground.jpg);
 }
 
 
@@ -41,7 +42,9 @@ background: #585858;
 color: #eee;
 font-size: 11px;
 padding: 20px;
+opacity:.9;
 }
+
 ul.footerul {
 list-style: none;
 padding:0;
@@ -101,9 +104,9 @@ background-color: #585858;
 width: 300px;
 height: 200px;
 margin-left: 385px;
-margin-top: 50px;
-margin:0 auto;
+margin-top: 200px;
 }
+
 #username {
 margin-bottom: 5px;
 color: black;
@@ -126,6 +129,7 @@ margin-bottom:50px;
 margin:0 auto;
 }
 
+/* Styles for the input boxes on contact us page */
 #Sent {
 color: black;
 }
@@ -152,3 +156,33 @@ color: black;
 color: black;
 }
 
+/* Styles for buttons */
+.btn.btn-default {
+  background: #009900;
+  color: black;
+}
+
+#loginbtn {
+  background: #00b200;
+  border: none;
+}
+
+/* Styles for the reviews page */
+.container.review-container {
+  background: #585858;
+  color:#eee;
+  border-radius: 10px;
+}
+
+.container.review-container2 {
+  background: #585858;
+  color:#eee;
+  border-radius: 10px;
+  margin-top:50px;
+  margin-bottom: 50px;
+}
+
+/* styles for the container opacity*/
+.container {
+  opacity:.9;
+}
